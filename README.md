@@ -14,5 +14,5 @@ Google Cloud Platform
 2. Buildings By Community and District - https://data.cityofnewyork.us/Social-Services/Buildings-by-Borough-and-Community-District/3qem-6v3v/about_data
 3. DHS Daily report - https://data.cityofnewyork.us/Social-Services/DHS-Daily-Report/k46n-sa2m/about_data
 
-##Link to my dashboard
+## Link to my dashboard
 Here's a link to the dashboard I created with this data- https://lookerstudio.google.com/u/0/reporting/f5878595-e2cf-4e17-aa89-5c67cb7680e1/page/UJ60D
