@@ -1,4 +1,4 @@
-New York City (NYC), home to millions of people, faces the challenge that many big cities encounter. Overpopulation and an inflated housing market makes it difficult for many people to afford shelter. Because housing is so expensive, NYC experiences one of the highest rates of homelessness in the country, ranking at number 8. Analyzing these datasets will allow us to see whether there has been an increase in homelessness population in different boroughs and if there is a positive correlation with the number of encampment complaints being made. As well as a interesting look at where heavy number of encampment complaints are coming from.  
+New York City (NYC), home to millions of people, faces the challenge that many big cities encounter. Overpopulation and an inflated housing market makes it difficult for many people to afford shelter. Because housing is so expensive, NYC experiences one of the highest rates of homelessness in the country, ranking at number 8. Analyzing these datasets will allow us to see whether there has been an increase in homelessness population in different boroughs as well as look into if there is a correlation between an increase in homlessness and the number of encampment complaints being made. Analyzing these datasets also gives an interesting look at where heavy number of encampment complaints are coming from.  
 
 # Technology Used
 * Python- programming
@@ -8,7 +8,7 @@ Google Cloud Platform
 2. Bigquery
 3. Looker Studio
 
-# DatasetS Used
+# Datasets Used
 
 1. 311 Complaints - https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data
 2. Buildings By Community and District - https://data.cityofnewyork.us/Social-Services/Buildings-by-Borough-and-Community-District/3qem-6v3v/about_data
