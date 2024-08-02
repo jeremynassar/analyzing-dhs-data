@@ -16,3 +16,6 @@ Google Cloud Platform
 
 ## Link to my dashboard
 Here's a link to the dashboard I created with this data- https://lookerstudio.google.com/u/0/reporting/f5878595-e2cf-4e17-aa89-5c67cb7680e1/page/UJ60D
+
+## Link to my presentation
+Here's a link to the a slide deck I created looking at a YoY change and some interesting take aways - https://docs.google.com/presentation/d/1qhMG-NJBhUdaMhQR98V7jsM-BQ8P6o4QTeYI0QZzSLo/edit#slide=id.p
